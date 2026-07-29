@@ -1,1 +1,0 @@
-Catálogo listo para GitHub Pages. Sube index.html y la carpeta assets completos. Instagram, Facebook y WhatsApp ya están integrados. Los precios no se inventaron porque no había una lista verificable en los archivos disponibles.
