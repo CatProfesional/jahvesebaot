@@ -1,0 +1,17 @@
+YAHVÉ SEBAOT STUDIO — CATÁLOGO PREMIUM ESTRUCTURADO
+
+ESTA VERSIÓN CAMBIA LA ORGANIZACIÓN:
+- Categorías principales.
+- Subcategorías en pestañas.
+- Tarjetas individuales para cada servicio.
+- Ventanas emergentes con descripción y botón de WhatsApp.
+- Todos los archivos están en la raíz para GitHub Pages.
+
+PARA SUBIR:
+1. Borra los archivos de la versión anterior.
+2. Descomprime este ZIP.
+3. Sube TODO lo que está dentro directamente a la raíz del repositorio.
+4. Espera 1–3 minutos.
+5. Actualiza con Ctrl + F5.
+
+Los precios no fueron inventados. Los servicios variables indican que se cotizan según largo, diseño o complejidad.
